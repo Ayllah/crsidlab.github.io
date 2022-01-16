@@ -1,12 +1,3 @@
----
-layout: default
-title: Tutorials
-long_title: Tutorials and other documentation
-has_children: true
-has_toc: false
-nav_order: 3
----
-
 ![Ecg gIF](/images/ECG.gif)
 ## Cardiorespiratory System Identification Lab (CRSIDLab)
 
